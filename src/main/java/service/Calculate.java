@@ -5,10 +5,6 @@ import entity.Framanage;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Red Date.
- * @date 2020/3/23 17:34
- */
 public class Calculate {
 
     //采用递归的方式计算结果
